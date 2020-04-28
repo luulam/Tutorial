@@ -1,0 +1,13 @@
+{
+  "name": "luulam",
+  "version": "1.0.0",
+  "main": "main.js",
+  "license": "MIT",
+  "scripts": {
+    "s": "electron ."
+  },
+  "dependencies": {
+    "electron": "^8.2.4",
+    "global": "^4.4.0"
+  }
+}
