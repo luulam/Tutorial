@@ -7,7 +7,7 @@
     "s": "electron ."
   },
   "dependencies": {
-    "electron": "^8.2.4",
+    "electron": "^8.5.2",
     "global": "^4.4.0"
   }
 }
